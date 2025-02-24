@@ -10,4 +10,4 @@ que yo llamo ser de derecha, pero esforzarse en la neutralidad. Seguramente les 
 de cosas que no le constaban, cuando tanto la jueza como la defenza lo orientaron varias veces para que solo hablara de lo que le constaba. Ahí se ve el mismo bias del panel.
 
 De todos modos, es el único canal que presenta las audiencias y lleva a profesionales expertos para que opinen seriamente sobre los temas en vivo, sean de izquierda o derecha, eso es supremamente meritorio y convierten
-su canal prácticamente en un servicio social que aporta un valor incalculable para la audiencia.
+su canal prácticamente en un servicio social que aporta un valor incalculable para la audiencia que además debe estar sirviendo de inspiración para más de un futuro abogado.
