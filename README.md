@@ -11,3 +11,12 @@ de cosas que no le constaban, cuando tanto la jueza como la defensa lo orientaro
 
 De todos modos, es el único canal que presenta las audiencias y lleva a profesionales expertos para que opinen seriamente sobre los temas en vivo, sean de izquierda o derecha, eso es supremamente meritorio y convierten
 su canal prácticamente en un servicio social que aporta un valor incalculable para la audiencia que además debe estar sirviendo de inspiración para más de un futuro abogado.
+
+
+
+
+
+https://www.youtube.com/watch?v=INBv0maUvZA
+Muy interesante seguir lo que pase con la recusación que presentó la defensa de Uribe contra la Fiscal y con la denuncia penal de Montealegre. A mi criterio la ley si permite al Juez decidir si una solicitud
+de recusación está sustentada con los elementos mínimos necesarios para ser considerada, y ese recurso no consede una habilidad automática a la defensa de detener el juicio a su antojo sin requisito de sustentación 
+alguna como vienen defendiendo los panelistas principales de Focus Noticias.
