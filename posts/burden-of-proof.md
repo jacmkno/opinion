@@ -1,3 +1,10 @@
+# Burden of Proof
+The idea here is a tale for kids about how the burden of proof is and how it's important to what we consider fair.
+
+This tale was produced by Grok for this purpose. But it lacks the important task of letting the story connect this to fairness directly through the story instead of explaining it at the end.
+
+This may be a small fix...
+
 # The Case of the Toppled Tower
 
 In the bustling town of Blocksville, little builder Beaver named Benny loved stacking towers with his colorful blocks. One morning, he built his tallest tower yet—ten blocks high! But when he went to grab a juice box, he returned to find it crashed on the ground.
