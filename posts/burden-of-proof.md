@@ -1,5 +1,5 @@
 # Burden of Proof
-The idea here is a tale for kids about how the burden of proof is and how it's important to what we consider fair.
+The idea here is a tale for kids about what the burden of proof is and how it's important to what we consider fair.
 
 This tale was produced by Grok for this purpose. But it lacks the important task of letting the story connect this to fairness directly through the story instead of explaining it at the end.
 
