@@ -1,4 +1,5 @@
-#The Case of the Toppled Tower
+# The Case of the Toppled Tower
+
 In the bustling town of Blocksville, little builder Beaver named Benny loved stacking towers with his colorful blocks. One morning, he built his tallest tower yet—ten blocks high! But when he went to grab a juice box, he returned to find it crashed on the ground.
 
 Benny marched to the playground where his pals—Polly the Parrot, Timmy the Toad, and Cara the Cat—were playing. “One of you knocked over my tower!” he declared, pointing a paw.
