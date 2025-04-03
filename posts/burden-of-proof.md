@@ -1,32 +1,42 @@
-The Mystery of the Missing Cookies
-Once upon a time in the cozy village of Critterville, there lived a little fox named Finn who loved baking cookies. One sunny afternoon, Finn baked a big batch of chocolate chip cookies and left them on his windowsill to cool. But when he came back, the cookies were gone!
+The Case of the Toppled Tower
+In the bustling town of Blocksville, little builder Beaver named Benny loved stacking towers with his colorful blocks. One morning, he built his tallest tower yet—ten blocks high! But when he went to grab a juice box, he returned to find it crashed on the ground.
 
-Finn ran to his friends—Ollie the Owl, Bella the Bunny, and Sammy the Squirrel—who were playing in the meadow. “Someone took my cookies!” Finn cried. “And I think it was one of you!”
+Benny marched to the playground where his pals—Polly the Parrot, Timmy the Toad, and Cara the Cat—were playing. “One of you knocked over my tower!” he declared, pointing a paw.
 
-Ollie flapped his wings. “Not me! I was flying high all day.”
+Polly squawked, “I was flapping up here—no way it was me!”
 
-Bella twitched her nose. “I was hopping around here. No cookies for me!”
+Timmy croaked, “I was hopping by the pond all morning.”
 
-Sammy flicked his tail. “I was gathering nuts. Why would I take them?”
+Cara purred, “I was napping in the sun. Leave me out of it!”
 
-Finn crossed his arms. “Well, someone did it, and you’re all acting sneaky!”
+Benny huffed. “Well, it didn’t fall on its own!”
 
-Just then, Wise Old Turtle waddled up. “Hold on, Finn,” she said in her slow, calm voice. “You can’t just point paws and say they did it. In Critterville, we have a rule: if you think someone did something, you’ve got to show why. It’s called the ‘burden of proof.’ It’s on you to prove it, not on them to prove they didn’t.”
+Just then, Granny Goat, the wisest critter in Blocksville, trotted over. “Slow down, Benny,” she said. “In Blocksville, we’ve got a fairness rule called the ‘burden of proof.’ If you say someone did something, it’s on you to show evidence first. That’s step one.”
 
-Finn scratched his head. “But how do I do that?”
+Benny tilted his head. “Evidence?”
 
-“Look for clues!” said Wise Old Turtle. “Check the scene and think it through.”
+“Yep,” said Granny Goat. “Clues! You’ve got to prove it’s them before they have to prove it’s not.”
 
-So Finn dashed back to his house. He sniffed the windowsill and found… muddy paw prints! They were too big for Bella, too small for Ollie’s talons, and didn’t match Sammy’s tiny claws. Then he spotted a crumb trail leading to the river. There, he caught Raccoon Ralph washing his paws, with chocolate smeared on his whiskers.
+So Benny scurried back to his tower. He spotted feathers near the blocks—red ones, like Polly’s! “Aha!” he said, racing back. “Polly, these feathers say it was you!”
 
-“Ralph!” Finn shouted. “You took my cookies!”
+Polly’s beak dropped. “Wait a minute! Those could be old feathers—I moulted yesterday!”
 
-Ralph grinned sheepishly. “Okay, okay, you got me. They smelled too good!”
+Granny Goat raised a hoof. “Hold on, Benny. You’ve got a clue, and that’s a good start. But when you point at Polly with something solid like feathers, the burden shifts. Now it’s on Polly to show she didn’t do it—because fairness means she gets a chance to explain.”
 
-Back in the meadow, Finn told his friends, “I’m sorry I blamed you. Wise Old Turtle was right—I had to find proof first.”
+Polly thought fast. “Look!” she said, pointing to the pond. “My feathers from yesterday are still floating there. I wasn’t near your tower today—Timmy saw me flying!”
 
-Wise Old Turtle nodded. “See, kids? The burden of proof keeps things fair. You don’t blame someone unless you’ve got a good reason—and evidence to back it up.”
+Timmy nodded. “She’s right—I watched her soar over the pond.”
 
-From then on, Finn shared his cookies with everyone (even Ralph), and Critterville stayed a happy, fair place.
+Benny scratched his head. “Okay, not Polly. But then who?”
+
+Granny Goat smiled. “Keep looking, Benny. The burden’s back on you until you’ve got more.”
+
+Benny checked again and found… muddy webbed footprints! They matched Timmy’s toes perfectly. “Timmy!” Benny cried. “This is you!”
+
+Timmy gulped. “Uh… okay, I hopped too close and bumped it. Sorry, Benny!”
+
+Granny Goat chuckled. “See, kids? The burden starts with the accuser—Benny had to find clues. But when he did, it shifted to Polly, then Timmy, to explain. That back-and-forth keeps it fair—no one’s blamed without a reason, and everyone gets to speak.”
+
+Benny forgave Timmy, and they rebuilt the tower together—taller than ever. And Blocksville stayed a fair, fun place for all.
 
 The End.
