@@ -1,0 +1,495 @@
+[{
+  "survey": {
+    "title": "Evaluación de Riesgo de Deportación",
+    "description": "Formulario anónimo para estimar el riesgo de deportación basado en criterios de ICE y factores de perfilamiento.",
+    "sections": [
+      {
+        "name": "Estatus migratorio",
+        "questions": [
+          {
+            "id": "q1",
+            "text": "¿Entró a EE.UU. con una visa (como turista, estudiante o trabajo)?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q2",
+            "text": "¿Estaba la visa vigente (no expirada) en la fecha en que entró a EE.UU.?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q3",
+            "text": "¿Tiene un documento de USCIS que muestre un permiso para estar en EE.UU., como una tarjeta de residencia, DACA o TPS?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q4",
+            "text": "¿Recibió una carta de USCIS o ICE pidiéndole que se presente en una corte o que salga del país?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q5",
+            "text": "¿Entró a EE.UU. en los últimos 2 años sin pasar por un puesto de control oficial, como un aeropuerto o frontera terrestre?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q6",
+            "text": "¿El sello de entrada en su pasaporte indica que ingresó a EE.UU. en los últimos 2 años?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Antecedentes penales",
+        "questions": [
+          {
+            "id": "q7",
+            "text": "¿Tiene un documento de una corte que diga que fue condenado por un delito, como robo, violencia o conducir bajo influencia?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q8",
+            "text": "¿Fue arrestado por usar un documento falso, como una licencia de conducir o ID?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q9",
+            "text": "¿Pagó una multa o cumplió una sentencia por un delito menor, como una infracción de tránsito?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Factores humanitarios",
+        "questions": [
+          {
+            "id": "q10",
+            "text": "¿Tiene un documento que muestre que un familiar directo (cónyuge, hijo, padre) es ciudadano o residente legal de EE.UU.?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q11",
+            "text": "¿Tiene una carta de un médico que diga que necesita tratamiento por una condición médica grave en EE.UU.?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q12",
+            "text": "¿Su pasaporte o documentos muestran que ha vivido en EE.UU. desde antes de 2020?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Interacciones recientes",
+        "questions": [
+          {
+            "id": "q13",
+            "text": "¿Recibió una visita o carta de ICE en los últimos 6 meses?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q14",
+            "text": "¿Trabaja en un lugar, como una fábrica o construcción, donde ICE ha visitado en el último año?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Factores de perfilamiento",
+        "questions": [
+          {
+            "id": "q15",
+            "text": "¿Ha sido detenido o cuestionado por autoridades (policía, ICE, CBP) en la calle o en un lugar público sin una razón clara, como un arresto formal?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q16",
+            "text": "¿Cuando habla inglés, cree que su acento hace que otros asuman que es de un país latino, árabe, africano u otra región frecuentemente asociada con inmigrantes?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q17",
+            "text": "¿Cree que su aspecto físico (como tono de piel, rasgos faciales o vestimenta) podría hacer que otros lo asocien con etnias como latina, árabe, africana, asiática o caucásica?",
+            "type": "multiple",
+            "options": [
+              { "value": "latino", "label": "Latina" },
+              { "value": "arabe", "label": "Árabe" },
+              { "value": "africano", "label": "Africana" },
+              { "value": "asiatico", "label": "Asiática" },
+              { "value": "caucasico", "label": "Caucásica" },
+              { "value": "otro", "label": "Otra" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q18",
+            "text": "¿Ha publicado en redes sociales (como X, Facebook, Instagram) mensajes o fotos apoyando causas políticas o sociales, como derechos de inmigrantes o movimientos pro-Palestina?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q19",
+            "text": "¿Ha participado en protestas, marchas o eventos públicos relacionados con temas de inmigración, derechos humanos o causas internacionales en los últimos 2 años?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q20",
+            "text": "¿Vive en un vecindario donde la mayoría de las personas son inmigrantes o donde ha habido redadas de ICE recientemente?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          },
+          {
+            "id": "q21",
+            "text": "¿Tiene tatuajes visibles con símbolos, imágenes o palabras que podrían ser interpretados como relacionados con pandillas, grupos criminales o movimientos extremistas, o cualquier tatuaje que no sea claramente decorativo (como flores o personajes infantiles)?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Sí" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "No sé" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+},
+{
+  "survey": {
+    "title": "Deportation Risk Assessment",
+    "description": "Anonymous form to estimate deportation risk based on ICE criteria and profiling factors.",
+    "sections": [
+      {
+        "name": "Immigration Status",
+        "questions": [
+          {
+            "id": "q1",
+            "text": "Did you enter the U.S. with a visa (such as tourist, student, or work)?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q2",
+            "text": "Was your visa valid (not expired) on the date you entered the U.S.?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q3",
+            "text": "Do you have a USCIS document showing permission to stay in the U.S., such as a green card, DACA, or TPS?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q4",
+            "text": "Have you received a letter from USCIS or ICE asking you to appear in court or leave the country?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q5",
+            "text": "Did you enter the U.S. in the last 2 years without going through an official checkpoint, like an airport or land border?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q6",
+            "text": "Does the entry stamp in your passport show that you entered the U.S. in the last 2 years?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Criminal History",
+        "questions": [
+          {
+            "id": "q7",
+            "text": "Do you have a court document stating you were convicted of a crime, such as theft, violence, or driving under the influence?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q8",
+            "text": "Have you been arrested for using a fake document, like a driver’s license or ID?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q9",
+            "text": "Have you paid a fine or served a sentence for a minor offense, like a traffic violation?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Humanitarian Factors",
+        "questions": [
+          {
+            "id": "q10",
+            "text": "Do you have a document showing that a close family member (spouse, child, parent) is a U.S. citizen or legal resident?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q11",
+            "text": "Do you have a letter from a doctor stating that you need treatment for a serious medical condition in the U.S.?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q12",
+            "text": "Do your passport or documents show that you have lived in the U.S. since before 2020?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Recent Interactions",
+        "questions": [
+          {
+            "id": "q13",
+            "text": "Have you received a visit or letter from ICE in the last 6 months?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q14",
+            "text": "Do you work in a place, like a factory or construction site, where ICE has visited in the last year?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Profiling Factors",
+        "questions": [
+          {
+            "id": "q15",
+            "text": "Have you been stopped or questioned by authorities (police, ICE, CBP) on the street or in a public place without a clear reason, like a formal arrest?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q16",
+            "text": "When you speak English, do you think your accent makes others assume you are from a Latin American, Arab, African, or other region often associated with immigrants?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q17",
+            "text": "Do you think your physical appearance (such as skin tone, facial features, or clothing) might make others associate you with ethnicities like Latino, Arab, African, Asian, or Caucasian?",
+            "type": "multiple",
+            "options": [
+              { "value": "latino", "label": "Latino" },
+              { "value": "arab", "label": "Arab" },
+              { "value": "african", "label": "African" },
+              { "value": "asian", "label": "Asian" },
+              { "value": "caucasian", "label": "Caucasian" },
+              { "value": "other", "label": "Other" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q18",
+            "text": "Have you posted on social media (like X, Facebook, Instagram) messages or photos supporting political or social causes, such as immigrant rights or pro-Palestine movements?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q19",
+            "text": "Have you participated in protests, marches, or public events related to immigration, human rights, or international causes in the last 2 years?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q20",
+            "text": "Do you live in a neighborhood where most people are immigrants or where ICE raids have occurred recently?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          },
+          {
+            "id": "q21",
+            "text": "Do you have visible tattoos with symbols, images, or words that could be interpreted as related to gangs, criminal groups, or extremist movements, or any tattoo that is not clearly decorative (like flowers or cartoon characters)?",
+            "type": "single",
+            "options": [
+              { "value": "yes", "label": "Yes" },
+              { "value": "no", "label": "No" },
+              { "value": "unknown", "label": "I don't know" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+]
